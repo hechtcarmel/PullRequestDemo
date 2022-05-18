@@ -14,5 +14,6 @@ def fibonacci(n):
 if __name__ == '__main__':
     print('Hello World!')
     print('Fibonnachi of 10 is:', fibonacci(10))
+    print("Bye")
     
     
